@@ -347,20 +347,18 @@ Urmil Kashyap
 
 GitHub:
 
-```text
-https://github.com/shanukashyap
-```
+https://github.com/shanukashyap/fastapi-order-management
 
 ## Project Submission
 
 GitHub Repository:
 
 ```text
-ADD YOUR FINAL GITHUB REPOSITORY URL HERE
+ADD YOUR FINAL GITHUB REPOSITORY URL HERE- https://github.com/shanukashyap/fastapi-order-management
 ```
 
 YouTube Demonstration:
 
 ```text
-ADD YOUR YOUTUBE VIDEO URL HERE
+ADD YOUR YOUTUBE VIDEO URL HERE- https://youtu.be/HUoZJ8BOdU4
 ```
